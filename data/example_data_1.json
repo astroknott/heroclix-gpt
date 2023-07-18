@@ -1,0 +1,247 @@
+[
+  {
+    "id": "av60001",
+    "name": "Black Panther",
+    "team": [
+      "Avengers"
+    ],
+    "keywords": [
+      "Avengers",
+      "Politician",
+      "Ruler",
+      "Wakanda",
+      "Warrior"
+    ],
+    "points": 60,
+    "range": 0,
+    "bolts": 2,
+    "dial_header_data": [
+      "m-boot",
+      "a-fist",
+      "d-indomitable",
+      "g-starburst"
+    ],
+    "dial_data": [
+      {
+        "speed": {
+          "power": "green",
+          "value": 8
+        },
+        "attack": {
+          "power": "red",
+          "value": 11
+        },
+        "defense": {
+          "power": "special",
+          "value": 17
+        },
+        "damage": {
+          "power": "black",
+          "value": 3
+        }
+      },
+      {
+        "speed": {
+          "power": "green",
+          "value": 8
+        },
+        "attack": {
+          "power": "red",
+          "value": 11
+        },
+        "defense": {
+          "power": "special",
+          "value": 17
+        },
+        "damage": {
+          "power": "black",
+          "value": 3
+        }
+      },
+      {
+        "speed": {
+          "power": "green",
+          "value": 8
+        },
+        "attack": {
+          "power": "pink",
+          "value": 11
+        },
+        "defense": {
+          "power": "special",
+          "value": 17
+        },
+        "damage": {
+          "power": "purple",
+          "value": 3
+        }
+      },
+      {
+        "speed": {
+          "power": "pink",
+          "value": 6
+        },
+        "attack": {
+          "power": "pink",
+          "value": 10
+        },
+        "defense": {
+          "power": "special",
+          "value": 17
+        },
+        "damage": {
+          "power": "purple",
+          "value": 2
+        }
+      },
+      {
+        "speed": {
+          "power": "pink",
+          "value": 6
+        },
+        "attack": {
+          "power": "pink",
+          "value": 10
+        },
+        "defense": {
+          "power": "special",
+          "value": 16
+        },
+        "damage": {
+          "power": "purple",
+          "value": 2
+        }
+      },
+      {
+        "speed": {
+          "power": "pink",
+          "value": 6
+        },
+        "attack": {
+          "power": "red",
+          "value": 10
+        },
+        "defense": {
+          "power": "special",
+          "value": 16
+        },
+        "damage": {
+          "power": "black",
+          "value": 2
+        }
+      },
+      {
+        "speed": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "attack": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "defense": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "damage": {
+          "power": "ko",
+          "value": "KO"
+        }
+      },
+      {
+        "speed": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "attack": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "defense": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "damage": {
+          "power": "ko",
+          "value": "KO"
+        }
+      },
+      {
+        "speed": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "attack": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "defense": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "damage": {
+          "power": "ko",
+          "value": "KO"
+        }
+      },
+      {
+        "speed": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "attack": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "defense": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "damage": {
+          "power": "ko",
+          "value": "KO"
+        }
+      },
+      {
+        "speed": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "attack": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "defense": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "damage": {
+          "power": "ko",
+          "value": "KO"
+        }
+      },
+      {
+        "speed": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "attack": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "defense": {
+          "power": "ko",
+          "value": "KO"
+        },
+        "damage": {
+          "power": "ko",
+          "value": "KO"
+        }
+      }
+    ],
+    "special_abilities": {
+      "Jungle Tactics (Special)": "Leap/Climb, Stealth.",
+      "Follow My Lead (Defense)": "Super Senses, Willpower. When Black Panther uses Willpower and succeeds, you may also remove an action token from a friendly character with a shared keyword within 4 squares."
+    }
+  }
+]

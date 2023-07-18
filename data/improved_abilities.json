@@ -1,0 +1,14 @@
+{
+  "Improved Movement Elevated": "This character does not have to end its movement when crossing a boundary of Elevated terrain.",
+  "Improved Targeting Elevated": "Lines of fire drawn by this character are not blocked by Elevated terrain.",
+  "Improved Targeting Hindering": "Lines of fire drawn by this character can’t be hindered.",
+  "Improved Movement Blocking": "This character can move through Blocking terrain.",
+  "Improved Targeting Blocking": "Lines of fire drawn by this character are not blocked by Blocking terrain.",
+  "Improved Movement Outdoor Blocking": "This character can move through Outdoor Blocking terrain. –",
+  "Improved Movement Destroy Blocking": "This character can move through Blocking terrain. When they do, immediately destroy any Blocking terrain moved through.",
+  "Improved Targeting Destroy Blocking": "Once per range attack, this character can draw a line of fire through one piece of Blocking terrain. Immediately after the attack resolves, destroy that piece of Blocking.",
+  "Improved Movement Characters": "This character automatically breaks away and can move through squares adjacent to or occupied by opposing characters without stopping.",
+  "Improved Targeting Characters": "Lines of fire drawn by this character are not blocked by characters.",
+  "Improved Movement Move Through": "This character can move through squares occupied by or adjacent to opposing characters without stopping (they still must break away).",
+  "Improved Targeting Adjacent": "This character can make range attacks while adjacent to opposing characters"
+}
